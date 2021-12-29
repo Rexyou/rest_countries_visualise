@@ -1,0 +1,15 @@
+* {
+  border: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  height: 100%;
+}
